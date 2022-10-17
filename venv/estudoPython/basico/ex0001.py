@@ -1,0 +1,8 @@
+print ('ola qual seu nome?')
+nome = input(' ')
+print('é um prazer conhecer vc', nome)
+print('vc mora em qual cidade?')
+cidade = input(' ')
+print('legal! conheço a cidade de ',cidade)
+print('que idade vc tem? ')
+idade = input('')
